@@ -8,9 +8,9 @@ Comparing language vectors to USPTO features to better determine patent quality 
 
 ## Models Used
 
-Gensim Doc2Vec [1](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb)
+Gensim Doc2Vec [[1]](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb)
 
-XGBoost GPU enabled GBM Decision Trees [2](https://xgboost.ai/2018/07/04/gpu-xgboost-update.html) [3](https://medium.com/@SeoJaeDuk/how-to-install-xgboost-gpu-no-gpu-on-window-10-x64-for-python-3-8c2ffa00fb29)
+XGBoost GPU enabled GBM Decision Trees [[2]](https://xgboost.ai/2018/07/04/gpu-xgboost-update.html), [[3]](https://medium.com/@SeoJaeDuk/how-to-install-xgboost-gpu-no-gpu-on-window-10-x64-for-python-3-8c2ffa00fb29)
 
 
 Original Data Sources
