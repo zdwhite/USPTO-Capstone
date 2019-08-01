@@ -1,0 +1,19 @@
+What is the problem you are attempting to solve?
+  Return better search results for Patent Attorneys during a freedom to operate search.
+
+How is your solution valuable?
+  Its value is in the ability to reduce costs and time for company innovation.
+  This was a requested topic of research from a CEO of patent software company.
+  
+What is your data source and how will you access it?
+  USPTO - download
+  Stanford Law NLE - email / download
+
+What techniques from the course do you anticipate using?
+  NLP / ensemble decision trees applied research
+
+What do you anticipate to be the biggest challenge you’ll face?
+  Working with a lot of data
+  Dealing with heavy class imbalance
+  Understanding / reading relevent research
+  Learning new concepts from a new domain
