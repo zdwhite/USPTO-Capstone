@@ -1,5 +1,6 @@
 What is the problem you are attempting to solve?
-  Return better search results for Patent Attorneys during a freedom to operate search.
+  Return better search results for Patent Attorneys during a freedom to operate search. 
+  First by using a basic recomender system, then by filtering results.
 
 How is your solution valuable?
   Its value is in the ability to reduce costs and time for company innovation.
